@@ -25,17 +25,17 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
-interests:
-  - 兴趣1
-  - 兴趣2
-  - 兴趣3
+# interests:
+#   - 兴趣1
+#   - 兴趣2
+#   - 兴趣3
 
 # Education to show in About widget
-education:
-  courses:
-    - course: 本科
-      institution: XX大学
-      year: 2012
+# education:
+#   courses:
+#     - course: 本科
+#       institution: XX大学
+#       year: 2012
     # - course: MEng in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2009
