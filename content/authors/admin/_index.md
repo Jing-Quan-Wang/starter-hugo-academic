@@ -11,7 +11,7 @@ status:
   icon: ☕️
 
 # Is this the primary user of the site?
-superuser: true
+superuser: False
 
 # Role/position/tagline
 role: 职位
